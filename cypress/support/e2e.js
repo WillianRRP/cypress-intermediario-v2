@@ -1,3 +1,4 @@
+
 // ***********************************************************
 // This example support/e2e.js is processed and
 // loaded automatically before your test files.
@@ -14,7 +15,7 @@
 // ***********************************************************
 
 // Import commands.js using ES2015 syntax:
-import './gui_commands'
+import './gui_commands.js'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
